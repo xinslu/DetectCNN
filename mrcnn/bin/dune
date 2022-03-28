@@ -1,0 +1,4 @@
+(executable
+ (public_name mrcnn)
+ (name main)
+ (libraries mrcnn))
